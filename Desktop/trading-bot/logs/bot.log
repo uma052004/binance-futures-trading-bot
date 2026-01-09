@@ -1,0 +1,12 @@
+2026-01-09 20:49:51,778 - INFO - Market Order | BUY | BTCUSDT | Qty: 0.001
+2026-01-09 20:49:53,831 - INFO - {}
+2026-01-09 20:51:45,507 - INFO - Limit Order | BUY | BTCUSDT | Qty: 0.001 | Price: 85000.0
+2026-01-09 20:51:47,420 - INFO - {}
+2026-01-09 20:55:26,252 - INFO - Limit Order | BUY | BTCUSDT | Qty: 0.001 | Price: 85000.0
+2026-01-09 20:55:27,887 - INFO - {}
+2026-01-09 21:01:25,585 - INFO - Limit Order | BUY | BTCUSDT | Qty: 0.001 | Price: 85000.0
+2026-01-09 21:01:27,047 - INFO - {}
+2026-01-09 21:02:41,453 - INFO - Limit Order | SELL | BTCUSDT | Qty: 0.001 | Price: 120000.0
+2026-01-09 21:02:42,840 - INFO - {}
+2026-01-09 21:06:55,815 - INFO - Limit Order | SELL | BTCUSDT | Qty: 0.001 | Price: 120000.0
+2026-01-09 21:06:57,242 - INFO - Order placed successfully: {}
